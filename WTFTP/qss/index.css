@@ -1,0 +1,42 @@
+* { color: #3d4150; }
+
+#title_label{font-style:italic; font-size:25pt;font-weight:bold;}
+QLabel#cpr_label{font-family:Arial;font-style:italic; font-size:8pt;}
+#pushButton_index,#pushButton_pm{font-family:Tahoma;font-size:30pt;font-style:italic;}
+QLabel#label_2,#label_4,#label_6{font-family:Arial;font-size:10pt;font-weight:bold;}
+QLabel#labelID,#labelName,#labelPriority{font-family:Tahoma;}
+QTextEdit{border-bottom-left-radius:12px;border-bottom-right-radius:5px;}
+#btnInjector,#btnDll,#btnApp{ font-family:Arial;font-size:10pt;background-color: #ffffff ;border-radius: 5px; padding: 2px 0 2px;}
+#btnInjector:hover,#btnDll:hover,#btnApp:hover{ background-color: #f8f8f8; border-style:solid;
+border: 1px #f0f0f0;font-weight:bold;}
+#pushButton_pm,#pushButton_info { font-family:Arial;font-size:10pt; border-style:solid;border: 1px #f0f0f0; font-weight: bold; }
+
+#label_all{border: 1px solid grey ;
+border-radius:20px;
+padding: 1px 20px 1px 20px;
+background-color:rgb(255,255,255)}
+
+#btnStart,#btnRestart,#btnClear,#btnAnalyse,#btnStop,#btnLog{
+        font-family:Arial;
+        font-size:10pt;
+        border-style: none;
+        border-radius:10px;
+        background-color:#e8e5eb;
+        border-width: 1px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+}
+
+#btnStart:hover,#btnRestart:hover,#btnClear:hover,#btnAnalyse:hover,#btnStop:hover,#btnLog:hover{
+        border-style: dashed;
+        border-width: 2px;
+        border-radius:10px;
+        color: #000000;
+        font-weight: bold;
+        padding-top: 10px;
+        padding-bottom: 10px;
+}
+
+#btn_littleshow{border:none}
+
+#label_wm{font-family:Times New Roman;font-style:italic;}
